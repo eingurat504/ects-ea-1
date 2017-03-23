@@ -47,7 +47,7 @@ class Serverstart extends Command
 set_time_limit (0); 
 
 // Set the ip and port we will listen on 
-$address = '127.0.0.1'; 
+$address = '54.75.227.164'; 
 $port = 9999; 
 
 // Create a TCP Stream socket 
